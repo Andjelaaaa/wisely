@@ -2,4 +2,4 @@
 
 Run the file `App.js` on the website https://snack.expo.dev/ to visualize the app. You can also download the  «Expo Go» app and scan this QR code to access the app: 
 
-![image](https://user-images.githubusercontent.com/34347347/216827793-1e444ab8-688f-4142-b150-82a397c2b87f.png)
+![image](https://user-images.githubusercontent.com/34347347/216827969-f38fa528-d853-4357-9119-831463ad1354.png)
