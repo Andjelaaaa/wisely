@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/34347347/216827839-ab617b4d-828e-4812-ac8a-7afe71380afb.png" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/34347347/216827839-ab617b4d-828e-4812-ac8a-7afe71380afb.png">
 
 # Purpose
 This app was created during the PolyHacks 2023 where the 'esteem' level was selected from Maslow's pyramid. Indeed, Wisely gives either random quotes, memes, gifs or cute animals to boost one's mood. Next steps involve adding a share button in order to enlighten a friend's day as well. 
