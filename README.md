@@ -8,6 +8,8 @@ Run the file `App.js` on the website https://snack.expo.dev/ to visualize the ap
 
 <img src="https://user-images.githubusercontent.com/34347347/216827969-f38fa528-d853-4357-9119-831463ad1354.png" width="300" height="300">
 
+# Additional Information
+Here is the [submission page](https://devpost.com/software/wisely-ocaxjh) for our project which won the begginer's award.
 For more information, contact:
 - Andjela Dimitrijevic
 - Jérôme St-Jean
